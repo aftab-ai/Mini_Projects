@@ -2,7 +2,7 @@
 
 This project is inspired by 'Quora.com' for using 'REST Class'.
 
-Uses:
+# Uses:
 
 1. Install NPM Packages.
 2. Run 'index.js' file.
